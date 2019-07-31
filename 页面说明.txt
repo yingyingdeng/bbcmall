@@ -1,0 +1,131 @@
+pages/index/index   首页
+
+pages/search/search  搜索
+
+pages/sort/sort 产品分类
+       
+pages/user/user  我的
+
+pages/product/product   产品列表
+               
+pages/product/product-show  产品详细
+		
+pages/order/confirmation  确认订单
+		
+pages/address/address   地址管理
+       
+pages/user/order_list/order_list 我的订单
+           
+pages/user/order_list/order-show  订单详情
+	      
+pages/user/setting/setting  我的设置
+
+pages/pay/payment/payment 订单支付
+
+pages/pay/success/success  支付成功
+				
+pages/comments/comments   全部好评
+			
+pages/myshop/myshop  店铺列表
+           
+pages/shop/shop 我的店铺
+			
+pages/login/login   登录
+
+pages/login/register 新用户注册
+
+pages/login/resetpasswd  找回密码
+
+pages/user/username/username 真实姓名
+
+pages/user/password/password 修改密码
+
+pages/user/phone/phone 手机验证
+
+pages/user/email/email  邮箱验证
+              
+pages/user/paypassword/paypassword  支付密码
+               
+pages/user/wuliu/wuliu 物流跟踪
+
+pages/user/coupon/coupon  我的优惠券
+
+pages/user/keep/keep   我的收藏
+
+pages/user/complaint/complaint 我的投诉
+
+pages/user/complaint/complaintfrom  交易投诉
+
+pages/user/mallservice/mallservice 平台客服
+
+pages/user/mallservice/servicelist 平台客服列表
+				
+pages/integralmall/integralmall 积分商城
+
+pages/integralmall/integralmall-show 积分产品详情
+
+pages/integralmall/integraltj 积分兑换
+			
+pages/integralmall/integraljilu  兑换记录
+			
+pages/integralmall/integralchakan 兑换详细
+
+pages/integralmall/integralmx  积分明细
+			
+pages/buying/buying  限时抢购
+
+pages/buying/buying-show 抢购详细
+
+pages/news/news 商城头条
+
+pages/news/news-show  商城头条
+
+pages/user/deposit/deposit 充值
+
+pages/user/deposit/deposit-list  充值明细
+
+pages/user/systeminfo/systeminfo  系统消息
+
+pages/user/receive/receive 接收设置
+
+pages/user/verification/verification 手机验证
+
+pages/user/foot/foot  我的足迹
+
+pages/user/haopin/haopin  评价
+
+pages/user/haopin/haopinshow  交易评价/晒单
+
+pages/user/returngoods/returngoods  退款申请
+
+pages/user/returngoods/returngoodshow 退款详细
+
+pages/user/return/return  退款列表
+
+pages/user/returnpro/returnpro  退款退货
+
+pages/user/returnpro/returnshow 退款退货详细
+
+pages/user/promotion/promotion  我的二维码
+			
+pages/user/promotion/yongjin 我的佣金
+
+pages/user/version/version  版本更新
+
+pages/user/aboutus/aboutus 关于商城
+
+pages/user/deposit/money  充值记录
+
+pages/user/deposit/moneyshow 充值详细
+
+pages/user/complaint/complaintshow 投诉详情
+                
+pages/sort/sort 分类
+
+pages/msg/msg  消息
+
+pages/msg/chat/chat  聊天
+           
+pages/cart/cart 购物车
+
+pages/user/user 我的
