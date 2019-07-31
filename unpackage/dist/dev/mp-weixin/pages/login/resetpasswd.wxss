@@ -1,0 +1,65 @@
+
+page{ background: #FFFFFF;}
+.logo{ display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -webkit-justify-content: center; -ms-flex-pack: center; justify-content: center;}
+.logo image{width: 200rpx; margin-top: 200rpx;}
+.icon-ego-guanbi{position: fixed; top: 60rpx; left: 30rpx; font-size: 40rpx;color: #333333;}
+.form {padding: 50rpx 5%;font-size: 30rpx; width: 90%;}
+.username,.password,.code{position: relative;width: 100%;}
+.phone-name,.phone-input,.forget-input{
+	height: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	border-bottom: 1rpx solid #f3f3f3; color: #999; width: 100%;display: block; font-size: 30rpx;
+}
+.phone-input{ padding-left: 90rpx;}
+.phone-num,.wjmi{position: absolute;  height: 100%;  -webkit-box-align: center;  -webkit-align-items: center;  -ms-flex-align: center;  align-items: center; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; top: 0;z-index: 10;}
+.wjmi{right:0;}
+.phone-num{left: 0; width: 90rpx; font-size: 40rpx; font-weight: bold;}
+.phone-num .icon-jiantouxia{ font-size: 12rpx; margin-left: 10rpx;}
+.wjmi>view{ background: #f3f3f3; color: #797979;padding: 15rpx 20rpx;border-radius: 10rpx;}
+.btn {
+	color: #fff;
+	width: 100%;
+	height: 90rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	border-radius: 10rpx;
+	background-color: #c9141d;
+	font-size: 32rpx; margin-top: 26rpx;
+}
+.btn-disabled{}
+.res {
+			display: -webkit-box;
+			display: -webkit-flex;
+			display: -ms-flexbox;
+			display: flex;
+			-webkit-box-pack: justify;
+			-webkit-justify-content: space-between;
+			    -ms-flex-pack: justify;
+			        justify-content: space-between;
+			-webkit-box-align: center;
+			-webkit-align-items: center;
+			    -ms-flex-align: center;
+			        align-items: center;
+			height: 100rpx;
+			color: #797979;
+}
+.xieyi{ width: 100%; text-align: center;color: #797979;}
+	
+

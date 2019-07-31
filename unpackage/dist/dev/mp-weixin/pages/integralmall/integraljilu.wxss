@@ -1,0 +1,14 @@
+
+page{background: #f3f3f3;}
+.duihuan{background: #fff;margin: 20rpx 2% 0 2%;border-radius: 20rpx;padding: 20rpx 3%;color: #797979;}
+.lipinimg{width: 130rpx;padding-right: 20rpx;}
+.lipinimg image{width: 130rpx; height: 130rpx;border-radius: 10rpx;}
+.jifen{margin-top: 20rpx;}
+.lptitle{display: -webkit-box;-webkit-box-orient: vertical;overflow: hidden;-webkit-line-clamp: 1;font-size: 30rpx; color: #333; line-height: 1.5;}
+.icon-shijian{margin-right: 10rpx;font-size: 28rpx;}
+.chakan{background: -webkit-gradient(linear, left top, right top, from(#ff4672) , to(#fe3612));background: -o-linear-gradient(left, #ff4672 , #fe3612);background: linear-gradient(to right, #ff4672 , #fe3612);padding: 10rpx 20rpx;line-height: 1.5;color: #fff;border-radius: 10rpx;font-size: 24rpx;}
+.quxiao{background: #f1f1f1;color: #333333;padding: 10rpx 20rpx;line-height: 1.5;border-radius: 5rpx;font-size: 24rpx;margin-left: 20rpx;}
+.red{color: #C9141D;}
+.danhao{color: #333333;}
+.green{color: #1AAD19;}
+

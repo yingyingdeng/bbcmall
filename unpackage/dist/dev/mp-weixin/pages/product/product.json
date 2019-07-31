@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTitleText": "产品列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "product-list": "/components/index/product-list"
+  }
+}

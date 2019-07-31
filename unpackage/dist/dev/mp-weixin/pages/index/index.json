@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "BBCMALL",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "product-list": "/components/index/product-list",
+    "load-more": "/components/load-more/load-more",
+    "swiper-tab-head": "/components/swiper-tab-head/swiper-tab-head",
+    "card-swiper": "/components/card-swiper/card-swiper"
+  }
+}

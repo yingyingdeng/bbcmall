@@ -1,0 +1,206 @@
+
+.psds3{
+	width:40rpx;
+	height:40rpx;
+	background:#999;
+	-webkit-box-shadow:0px 0px 4rpx 0px #999;
+	        box-shadow:0px 0px 4rpx 0px #999;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	border-radius: 50%;
+	margin-right: 24rpx;
+	/* margin-top: 12upx; */
+}
+.psds2{
+	width:20rpx;
+	height:20rpx;
+	background:#999;
+	/* box-shadow:0px 0px 4upx 0px #999; */
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	border-radius: 50%;
+	margin-right: 34rpx;
+	margin-left: 11rpx;
+}
+.w2lin3{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.line{
+	width: 2rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+	background-color: #999;
+	margin-right: 24rpx;
+}
+.w34{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	width: 86%;
+	/* border: 1upx solid red; */
+	padding: 24rpx 0;
+}
+.psds{
+	width:40rpx;
+	height:40rpx;
+	background:rgba(255,149,118,1);
+	-webkit-box-shadow:0px 0px 4rpx 0px rgba(255,149,118,1);
+	        box-shadow:0px 0px 4rpx 0px rgba(255,149,118,1);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	border-radius: 50%;
+	margin-right: 24rpx;
+	margin-top: 12rpx;
+}
+.w33{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	/* border: 1upx solid red; */
+	padding: 0 26rpx;
+}
+.w31{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding:0 24rpx 24rpx 24rpx;
+	border-bottom: 1rpx solid #F2F2F2;
+}
+.w32{
+	width: 46rpx;
+	height: 46rpx;
+	display: block;
+	margin-right: 24rpx;
+}
+.w3{
+	margin: 24rpx;
+	background-color: #fff;
+}
+.w2{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	background-color: #fff;
+	margin: 0 24rpx;
+	border-radius:16rpx;
+	padding: 22rpx;
+}
+.w12{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 100%;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.w11{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.w1{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	background-color: #fff;
+	margin: 24rpx;
+	border-radius:16rpx;
+	padding: 22rpx;
+}
+.w21{
+	width: 80rpx;
+	height: 80rpx;
+	display: block;
+	margin-right: 24rpx;
+}
+.g1{
+	width: 104rpx;
+	height: 104rpx;
+	display: block;
+	margin-right: 24rpx;
+}
+

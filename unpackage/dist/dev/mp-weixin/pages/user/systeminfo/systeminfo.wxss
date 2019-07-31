@@ -1,0 +1,9 @@
+
+page{background: #f3f3f3;}
+.system{margin: 20rpx 2% 0 2%;background: #fff;border-radius: 20rpx;}
+.systembt{padding: 20rpx 20rpx 0rpx 20rpx;}
+.title{font-size: 30rpx; font-weight: bold;display: -webkit-box;-webkit-box-orient: vertical;overflow: hidden;webkit-line-clamp: 1;}
+.systemcont{font-size: 28rpx;display: -webkit-box;-webkit-box-orient: vertical;overflow: hidden;padding: 0rpx 20rpx 20rpx 20rpx;webkit-line-clamp: 2;color: #797979;border-bottom: 1rpx solid #f3f3f3;}
+.icon-shanchu{color: #797979;}
+.systemtime{padding: 10rpx 20rpx;color: #797979;}
+

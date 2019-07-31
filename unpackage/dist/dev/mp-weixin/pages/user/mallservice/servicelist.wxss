@@ -1,0 +1,11 @@
+
+.comment{padding: 0 3%; width: 94%;}
+.comment-body{ background: #F3F3F3; padding:20rpx 20rpx 20rpx 20rpx; border-radius: 10rpx; margin-top: 20rpx;}
+.uni-comment-top text{ font-size: 30rpx;color: #666;}
+.icon-ego-guanbi{border: 1rpx solid #ddd;-webkit-box-shadow: 0 0rpx 8rpx #AAAAAA;box-shadow: 0 0rpx 8rpx #AAAAAA; background: #F9F9F9; border-radius: 50%;font-size: 24rpx; width: 40rpx; height: 40rpx;display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;-webkit-box-pack: center;-webkit-justify-content: center;-ms-flex-pack: center;justify-content: center;-webkit-box-align: center;-webkit-align-items: center;-ms-flex-align: center;align-items: center;color: #999;}
+.uni-comment-content{ background: #f9f9f9; margin: 20rpx 0; padding: 15rpx;border-radius: 10rpx;color: #999;}
+.text1{color:#C9141D;font-size: 26rpx;}
+.text2{color:#36c359;font-size: 26rpx;}
+.uni-times{ color: #aaa;font-size: 26rpx;}
+.huifu{-webkit-box-align: end;-webkit-align-items: flex-end;-ms-flex-align: end;align-items: flex-end;-webkit-box-pack: end;-webkit-justify-content: flex-end;-ms-flex-pack: end;justify-content: flex-end;display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;}
+
