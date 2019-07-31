@@ -1,0 +1,5 @@
+
+.uni-uploader__file{position: relative}
+.icon-shanchu{position: absolute;right: -10rpx; top: -20rpx;z-index: 10;background: #c9141d; color: #fff;border-radius: 100%;padding:0 10rpx;font-size: 24rpx;}
+.uni-uploader__img,.uni-uploader__input-box{border-radius: 10rpx}
+

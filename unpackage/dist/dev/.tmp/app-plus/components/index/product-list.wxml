@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['toGoods',['$event']]]]]}}" class="product animated fadeIn" bindtap="__e"><view><image mode="widthFix" src="{{product.img}}" lazy-load></image></view><view class="name">{{product.name}}</view><view class="info"><view class="price iconzhibi">{{product.price}}</view><view class="slogan">{{product.slogan}}</view></view></view>

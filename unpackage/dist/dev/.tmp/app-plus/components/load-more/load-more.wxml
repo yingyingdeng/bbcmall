@@ -1,0 +1,1 @@
+<view><view class="loadtext">{{loadtext}}</view></view>

@@ -1,0 +1,8 @@
+
+.uni-tab-bar{ background: #fff;}
+.uni-swiper-tab{ border-bottom: 0rpx; padding: 0 10rpx;}
+.swiper-tab-list {font-size: 32rpx;width: auto;padding: 0 23rpx;}
+.uni-tab-bar .active {color: #cc0e10; font-weight: 300;}
+.active .swiper-tab-line{border-bottom: 3rpx solid #cc0e10;border-top: 3rpx solid #cc0e10;width: 50rpx; margin: auto; border-radius:20rpx;
+}
+
