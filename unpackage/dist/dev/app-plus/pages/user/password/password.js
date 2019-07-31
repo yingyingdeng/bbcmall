@@ -1,0 +1,2 @@
+setCssToHead(["body{background: #f1f1f1;}\n.",[1],"uni-column{margin: 0 5%; width: 90%;}\n.",[1],"uni-input{border-radius: ",[0,10],";}\n.",[1],"title { padding: ",[0,10]," ",[0,25],";text-align: center; color: #999; }\n",],undefined,{path:"./pages/user/password/password.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/password/password.wxml') } }));

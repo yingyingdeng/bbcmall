@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"article-content { padding: ",[0,20]," ",[0,30],"; overflow: hidden; font-size: ",[0,32],";color: #666; margin-bottom: ",[0,30],"; }\n",],undefined,{path:"./pages/user/aboutus/aboutus.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/aboutus/aboutus.wxml') } }));
