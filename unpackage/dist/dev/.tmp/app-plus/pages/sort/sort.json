@@ -1,0 +1,34 @@
+{
+  "navigationBarTitleText": "产品分类",
+  "navigationBarBackgroundColor": "#fff",
+  "titleNView": {
+    "searchInput": {
+      "align": "left",
+      "backgroundColor": "#f7f7f7",
+      "borderRadius": "4px",
+      "placeholder": "搜索关键字",
+      "placeholderColor": "#ccc",
+      "disabled": true
+    },
+    "buttons": [
+      {
+        "color": "#666",
+        "colorPressed": "#c9141d",
+        "float": "left",
+        "fontSize": "24px",
+        "fontSrc": "/static/font/iconfont.ttf",
+        "text": ""
+      },
+      {
+        "color": "#666666",
+        "colorPressed": "#c9141d",
+        "float": "right",
+        "fontSize": "24px",
+        "fontSrc": "/static/font/iconfont.ttf",
+        "text": ""
+      }
+    ]
+  },
+  "scrollIndicator": "none",
+  "usingComponents": {}
+}

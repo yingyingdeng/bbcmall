@@ -1,0 +1,24 @@
+
+page{ background: #f3f3f3}
+.nav-tab-bar{ margin-left: -20rpx; position: relative;color: #787878;}
+.nav-tab-bar>view{ margin-right: 50rpx; font-size: 32rpx;}
+.active{color: #c9141d;
+}
+.nav-tab-bar-line{ border-bottom: 3rpx #c9141d solid;border-top: 3rpx #c9141d solid; border-radius: 20rpx; width: 70rpx;position: absolute;bottom: 12rpx;}
+.icon-fanhui{ padding-left: 20rpx; font-size: 40rpx;}
+.swiper-item{ padding: 0 3%; width: 94%;}
+.going{background: #FFFFFF; border-radius: 10rpx; padding: 20rpx; margin-top: 20rpx;}
+.txpro{ margin: 15rpx 0rpx;background: #F9F9F9;padding: 15rpx 15rpx 0 15rpx; border-radius: 10rpx;}
+.txpic{ width: 140rpx;}
+.txpic image{width: 140rpx; height: 140rpx; border-radius: 10rpx;}
+.txyuanyin{ padding-left: 20rpx;
+}
+.txyuanyin>view{display: -webkit-box;-webkit-box-orient: vertical;overflow: hidden;}
+.txname{ font-size: 28rpx; color: #222;-webkit-line-clamp: 2;}
+.txyy{font-size: 25rpx; color: #999999;-webkit-line-clamp: 1;}
+.txyy text{color: #C9141D;}
+.times{color: #999999; font-size: 24rpx;}
+.see{ background: #C9141D; padding:0rpx 10rpx; color: #FFFFFF; font-size: 24rpx; border-radius: 5rpx;}
+.cancel{border: 1rpx solid #f3f3f3; padding:0rpx 10rpx; margin-left: 20rpx;font-size: 24rpx;border-radius: 5rpx;}
+.tszz text{color:#C9141D ;}
+

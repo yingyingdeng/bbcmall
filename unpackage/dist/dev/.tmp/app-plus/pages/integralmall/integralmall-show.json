@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "积分产品详情",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "titleNView": {
+    "buttons": [
+      {
+        "color": "#666666",
+        "colorPressed": "#c9141d",
+        "float": "right",
+        "fontSize": "22px",
+        "fontSrc": "/static/font/iconfont.ttf",
+        "text": ""
+      }
+    ]
+  },
+  "scrollIndicator": "none",
+  "usingComponents": {}
+}

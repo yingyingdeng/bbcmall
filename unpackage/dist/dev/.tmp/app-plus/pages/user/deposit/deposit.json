@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "充值",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "明细",
+        "fontSize": "30upx",
+        "width": "70px"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

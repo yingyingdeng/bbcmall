@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "详情",
+  "navigationBarBackgroundColor": "#ffffff",
+  "backgroundColor": "#ffffff",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "type": "share"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

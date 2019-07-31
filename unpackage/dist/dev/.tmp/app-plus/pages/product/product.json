@@ -1,0 +1,29 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTitleText": "产品列表",
+  "enablePullDownRefresh": true,
+  "titleNView": {
+    "searchInput": {
+      "align": "left",
+      "backgroundColor": "#f7f7f7",
+      "borderRadius": "4px",
+      "placeholder": "搜索关键字",
+      "placeholderColor": "#ccc",
+      "disabled": true
+    },
+    "buttons": [
+      {
+        "color": "#666666",
+        "colorPressed": "#c9141d",
+        "float": "right",
+        "fontSize": "24px",
+        "fontSrc": "/static/font/iconfont.ttf",
+        "text": ""
+      }
+    ]
+  },
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "product-list": "/components/index/product-list"
+  }
+}

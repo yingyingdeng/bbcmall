@@ -1,0 +1,12 @@
+
+.jine{-webkit-box-orient: vertical;-webkit-box-direction: normal;-webkit-flex-direction: column;-ms-flex-direction: column;flex-direction: column;padding: 70rpx 0 20rpx 0;}
+.num{font-size: 60rpx;font-weight: bold;line-height: 1.2;}
+.chuli{font-size: 28rpx;}
+.list{padding: 20rpx 3%;border-bottom: 1rpx solid #F3F3F3;color: #666;}
+.name{width: 160rpx;font-size: 28rpx;word-wrap:break-word;margin-right: 20rpx;}
+.cont{word-wrap:break-word;font-size: 28rpx; width: 570rpx;text-align: right;}
+.font26{font-size: 26rpx;}
+.yellow{color: #EB632C;}
+.red{color: #C9141D;}
+.green{color: #09BB07;}
+

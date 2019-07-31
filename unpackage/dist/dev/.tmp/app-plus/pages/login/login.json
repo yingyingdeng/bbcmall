@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "登录",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "titleNView": false,
+  "bounce": "none",
+  "softinputNavBar": "none",
+  "usingComponents": {
+    "uni-status-bar": "/components/uni-status-bar/uni-status-bar"
+  }
+}

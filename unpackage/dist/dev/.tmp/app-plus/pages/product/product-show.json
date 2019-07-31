@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "产品详细",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "onReachBottomDistance": 50,
+  "titleNView": false,
+  "bounce": "none",
+  "usingComponents": {
+    "product-list": "/components/index/product-list"
+  }
+}

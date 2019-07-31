@@ -1,0 +1,10 @@
+{
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "titleNView": false,
+  "softinputNavBar": "none",
+  "usingComponents": {
+    "product-list": "/components/index/product-list"
+  }
+}

@@ -1,0 +1,13 @@
+
+.kftype{ font-size: 32rpx; padding:20rpx 10rpx;}
+.page-body{ padding:0 3%; width: 94%;}
+.icon-xiajiantou{font-size: 20rpx; color: #999999;}
+.kexiala{ background: #0081FF;}
+.uni-input{ background: #f9f9f9; border-radius: 10rpx;
+}
+.uni-input text{color: #666; font-size: 30rpx;}
+.uni-textarea{ background: #f9f9f9; border-radius: 10rpx;font-size: 30rpx;
+}
+.kfbtn{ height: 90rpx; color: #FFFFFF;  background: #C9141D; font-size: 32rpx; margin-top: 30rpx; line-height: 90rpx;}
+.kfcont{ color: #AAAAAA; padding: 20rpx 10rpx 0rpx 10rpx;}
+

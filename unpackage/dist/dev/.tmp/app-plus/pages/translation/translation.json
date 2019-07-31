@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "语言",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "选择",
+        "fontSize": "34upx",
+        "width": "70px"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,8 @@
+
+.article-content {
+	padding: 20rpx 30rpx;
+	overflow: hidden;
+	font-size: 32rpx;color: #666;
+	margin-bottom: 30rpx;
+}
+

@@ -1,0 +1,9 @@
+
+.language{border-top: 1rpx solid #efefef;}
+.language_list{ border-bottom: 1rpx solid #efefef; padding: 30rpx 5%;}
+.language_list>view{ -webkit-box-pack: justify; -webkit-justify-content: space-between; -ms-flex-pack: justify; justify-content: space-between; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center;
+}
+.language_list>view>view{ font-size: 30rpx; margin-left: 20rpx;color:#666;}
+.language_list>view image{ width:60rpx; -webkit-box-shadow: 0 0 5rpx #ddd; box-shadow: 0 0 5rpx #ddd; border-radius: 10rpx;}
+.active{ background: #f9f9f9;}
+

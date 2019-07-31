@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "我的足迹",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "清空",
+        "fontSize": "30upx",
+        "width": "70px",
+        "color": "#797979"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

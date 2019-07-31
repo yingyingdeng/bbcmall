@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商城头条",
+  "usingComponents": {
+    "swiper-tab-head": "/components/swiper-tab-head/swiper-tab-head"
+  }
+}

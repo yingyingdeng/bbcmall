@@ -1,0 +1,39 @@
+{
+  "navigationBarTitleText": "BBCMALL",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "titleNView": {
+    "searchInput": {
+      "align": "left",
+      "backgroundColor": "#f7f7f7",
+      "borderRadius": "4px",
+      "placeholder": "搜索关键字",
+      "placeholderColor": "#ccc",
+      "disabled": true
+    },
+    "buttons": [
+      {
+        "color": "#666",
+        "colorPressed": "#c9141d",
+        "float": "left",
+        "fontSize": "24px",
+        "fontSrc": "/static/font/iconfont.ttf",
+        "text": ""
+      },
+      {
+        "color": "#666666",
+        "colorPressed": "#c9141d",
+        "float": "right",
+        "fontSize": "24px",
+        "fontSrc": "/static/font/iconfont.ttf",
+        "text": ""
+      }
+    ]
+  },
+  "scrollIndicator": "none",
+  "usingComponents": {
+    "product-list": "/components/index/product-list",
+    "load-more": "/components/load-more/load-more",
+    "swiper-tab-head": "/components/swiper-tab-head/swiper-tab-head",
+    "card-swiper": "/components/card-swiper/card-swiper"
+  }
+}
